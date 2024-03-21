@@ -2,7 +2,7 @@
     "kernelSource": {
       "name": "NooB-Kernel",
       "repo": "https://github.com/GhaintBadhan/kernel_xiaomi_kangx",
-      "branch": "KSU",
+      "branch": "main",
       "device": "vili"
     },
     "withKernelSU": true,
